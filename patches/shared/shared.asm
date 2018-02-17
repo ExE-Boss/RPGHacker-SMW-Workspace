@@ -364,5 +364,6 @@ if !shared_asm_included == 0
 	; Includes
 	
 	incsrc includes/print_implementation.asm
+	incsrc includes/smw_structs.asm
 		
 endif
